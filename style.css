@@ -1,0 +1,8 @@
+*{
+    box-sizing: border-box;;
+}
+
+img{
+    border : 3px solid lightgray;
+    border-radius : 50%; 
+}
